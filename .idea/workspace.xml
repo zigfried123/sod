@@ -1,7 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2f2505b-3d0e-44bf-834b-3523d12024fc" name="Default" comment="" />
+    <list default="true" id="f2f2505b-3d0e-44bf-834b-3523d12024fc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/.bowerrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/Vagrantfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/assets/AppAsset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/codeception.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/config/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/config/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/config/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/controllers/SiteController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_data/login_data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_output/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_support/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_support/FunctionalTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/_support/UnitTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/functional.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/functional/LoginCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/functional/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/unit.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/tests/unit/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/views/layouts/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/views/site/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/views/site/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/views/site/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/web/assets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/web/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/backend/web/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/codeception.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/codeception.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/config/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/config/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/config/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/fixtures/UserFixture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/mail/layouts/html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/mail/layouts/text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/mail/passwordResetToken-html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/mail/passwordResetToken-text.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/models/LoginForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/_data/user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/_output/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/_support/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/_support/UnitTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/unit.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/tests/unit/models/LoginFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/common/widgets/Alert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/config/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/config/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/controllers/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/migrations/m130524_201442_init.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/models/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/console/runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/backend/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/backend/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/backend/config/test-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/backend/web/index-test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/backend/web/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/backend/web/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/common/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/common/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/common/config/test-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/console/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/console/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/frontend/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/frontend/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/frontend/config/test-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/frontend/web/index-test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/frontend/web/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/frontend/web/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/yii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/yii_test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/dev/yii_test.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/backend/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/backend/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/backend/web/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/backend/web/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/common/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/common/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/console/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/console/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/frontend/config/main-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/frontend/config/params-local.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/frontend/web/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/frontend/web/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/environments/prod/yii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/assets/AppAsset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/codeception.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/config/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/config/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/config/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/config/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/controllers/SiteController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/models/ContactForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/models/PasswordResetRequestForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/models/ResetPasswordForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/models/SignupForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_data/login_data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_data/user.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_output/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_support/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_support/FunctionalTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/_support/UnitTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/acceptance.suite.yml.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/acceptance/HomeCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/acceptance/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional/AboutCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional/ContactCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional/HomeCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional/LoginCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional/SignupCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/functional/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/unit.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/unit/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/unit/models/ContactFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/unit/models/PasswordResetRequestFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/unit/models/ResetPasswordFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/tests/unit/models/SignupFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/layouts/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/about.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/requestPasswordResetToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/resetPassword.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/views/site/signup.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/web/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/web/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/web/assets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/web/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/frontend/web/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/init" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/init.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/requirements.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/config/vagrant-local.example.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/nginx/app.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/nginx/log/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/provision/always-as-root.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/provision/common.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/provision/once-as-root.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/vagrant/provision/once-as-vagrant.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adv/yii.bat" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,21 +174,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/adv/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/adv/frontend/config/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
@@ -50,12 +205,12 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
-      <path value="$PROJECT_DIR$/adv/vendor/bower-asset/bootstrap/package.json" />
-      <path value="$PROJECT_DIR$/adv/vendor/bower-asset/inputmask/package.json" />
-      <path value="$PROJECT_DIR$/adv/vendor/bower-asset/jquery/package.json" />
-      <path value="$PROJECT_DIR$/adv/vendor/bower-asset/punycode/package.json" />
-      <path value="$PROJECT_DIR$/adv/vendor/bower-asset/typeahead.js/package.json" />
-      <path value="$PROJECT_DIR$/adv/vendor/bower-asset/yii2-pjax/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js/package.json" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax/package.json" />
     </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
@@ -126,7 +281,7 @@
       <path value="$PROJECT_DIR$/adv/vendor/composer" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-65" />
     <option name="y" value="16" />
     <option name="width" value="1296" />
@@ -146,17 +301,6 @@
               <item name="test" type="b2602c69:ProjectViewProjectNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="adv" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="adv" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -165,9 +309,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sod" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\test\adv\frontend\web" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -192,22 +342,23 @@
       <option name="presentableId" value="Default" />
       <updated>1534490749874</updated>
       <workItem from="1534490751126" duration="901000" />
-      <workItem from="1534494519605" duration="266000" />
+      <workItem from="1534494519605" duration="435000" />
+      <workItem from="1534495106769" duration="492000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1167000" />
+    <option name="totallyTimeSpent" value="1828000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015625" side_tool="true" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5023438" side_tool="true" visible="true" weight="0.3299435" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984375" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49765626" visible="true" weight="0.3299435" />
       <window_info anchor="right" id="Remote Host" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -232,6 +383,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/adv/frontend/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adv/frontend/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adv/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/adv/frontend/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/adv/frontend/config/main.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
